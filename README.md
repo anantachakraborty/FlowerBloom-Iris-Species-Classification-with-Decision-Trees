@@ -1,0 +1,2 @@
+# FlowerBloom-Iris-Species-Classification-with-Decision-Trees
+This repository contains a Python project that demonstrates the use of Decision Trees for classifying Iris flowers into three species: Setosa, Versicolor, and Virginica. The primary goal of this project is to create a Decision Tree classifier and visualize it graphically, allowing for accurate predictions of Iris species when new data is provided.
